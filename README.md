@@ -101,9 +101,9 @@ Dev Environment    • Windows 11, Claude Code CLI, Git / GitHub CLI
 
 ### 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=zzdevxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Andreas's GitHub Stats" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zzdevxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Andreas's GitHub Stats" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzdevxx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zzdevxx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 <br/>
 <sub>Designed with precision & craftsmanship • Built for production</sub>
