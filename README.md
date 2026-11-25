@@ -1,111 +1,56 @@
 <div align="center">
 
 # Andreas Restuawanta Christwara
-### Computer Engineering • Audio Signal Processing • Stage Lighting Systems • Cloud Architecture
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-zzdevxx-181717?style=flat-square&logo=github)](https://github.com/zzdevxx)
-[![Institution](https://img.shields.io/badge/UNNES-Teknik%20Komputer-blue?style=flat-square&logo=academia)](https://unnes.ac.id)
-[![Location](https://img.shields.io/badge/Location-Semarang%2C%20Indonesia-red?style=flat-square&logo=google-maps)](https://maps.google.com)
-[![Status](https://img.shields.io/badge/Focus-Skripsi%20%26%20Production%20Systems-success?style=flat-square)](https://github.com/zzdevxx)
+**Computer Engineering - Audio Signal Processing - Stage Lighting Systems - Cloud Edge Architecture**
 
-<p align="center">
-  <em>Undergraduate researcher and software engineer crafting cross-modal audio-reactive lighting consoles, real-time multimedia broadcast pipelines, and high-performance serverless cloud architectures.</em>
-</p>
+[![Web Hub](https://img.shields.io/badge/Web-zzdree.my.id-FF6200?style=flat-square&logo=cloudflare&logoColor=white)](https://zzdree.my.id/)
+[![GitHub](https://img.shields.io/badge/GitHub-%40zzdevxx-181717?style=flat-square&logo=github)](https://github.com/zzdevxx)
+[![GitLab](https://img.shields.io/badge/GitLab-%40zzdevxx-FC6D26?style=flat-square&logo=gitlab)](https://gitlab.com/zzdevxx)
+[![Codeberg](https://img.shields.io/badge/Codeberg-%40zzdevxx-2185D0?style=flat-square&logo=codeberg&logoColor=white)](https://codeberg.org/zzdevxx)
+[![Institution](https://img.shields.io/badge/UNNES-Teknik%20Komputer-0F4C81?style=flat-square)](https://unnes.ac.id)
 
----
+Undergraduate researcher and software engineer in Semarang, Indonesia building real-time audio-reactive stage lighting hardware, desktop projection workstations, and Cloudflare Workers web systems. All flagship projects and public portals are indexed at [zzdree.my.id](https://zzdree.my.id/).
 
 </div>
 
-## 🎓 Academic Research & Thesis
-
-- **Candidate:** Andreas Restuawanta Christwara (`NIM: 5312422036`)
-- **Advisor:** Mario Norman Syah, S.Pd., M.Eng. (`NIP: 199304212024061001`)
-- **Department:** Program Studi S1 Teknik Komputer, Jurusan Teknik Elektro, Fakultas Teknik, Universitas Negeri Semarang (UNNES)
-- **Thesis Title:**
-  > *"Rancang Bangun Sistem Audio-Reactive Lighting Design Berbasis Analisis Mood Lagu Rohani dengan Pemetaan Warna HSV-RGBW dan Protokol Art-Net DMX512"*
-- **Field Deployments:** Gereja Isa Almasih (GIA) Deliksari & Auditorium UNNES.
-
 ---
 
-## 🚀 Flagship Engineering Projects
+## Featured Ecosystems & Portals
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎛️ <a href="https://gitlab.com/zzdevxx/zzluxora-v10">ZZLUXORA v10</a></h3>
-      <p><b>Next-Gen Production Stage Lighting Console</b> inspired by grandMA3 industrial ergonomics and QLC+ utility. Powered by pure Python/NumPy STFT (43.07 FPS), Russell 2D Affective Plane mood mapping, physical 4-channel RGBW decomposition, and play-gated Art-Net UDP transmission.</p>
-      <p><code>Python 3.10+</code> • <code>PySide6 (Qt6)</code> • <code>NumPy</code> • <code>Art-Net 4</code> • <code>DMX512</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📜 <a href="https://gitlab.com/zzdevxx/zzluxora-thesis">Thesis & Research Lab</a></h3>
-      <p>Scientific research manuscript repository conforming to IEEE standards. Features Cooley-Tukey Radix-2 FFT derivations, Hann windowing spectral leak mitigation, 8 publication-grade diagrams, and dual-core FreeRTOS ESP32 firmware.</p>
-      <p><code>Academic Research</code> • <code>DSP Mathematics</code> • <code>ESP32 C++</code> • <code>FreeRTOS</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏛️ <a href="https://giadeliksari.my.id">GIA Deliksari Web Portal</a></h3>
-      <p>Production church operational portal and public community platform. Engineered with modern serverless architecture on Cloudflare D1 (SQLite at the edge), R2 asset storage, and OpenNext integration.</p>
-      <p><code>Next.js 15</code> • <code>React 19</code> • <code>TypeScript</code> • <code>Cloudflare D1/R2</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📻 <a href="https://gitlab.com/zzdevxx/suara-fajar-deliksari">Suara Fajar Deliksari</a></h3>
-      <p>Interactive morning prayer radio and community audio broadcasting platform. Real-time low-latency audio delivery powered by LiveKit WebRTC and Supabase real-time presence.</p>
-      <p><code>Next.js 14</code> • <code>LiveKit WebRTC</code> • <code>Supabase</code> • <code>Tailwind CSS</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://gitlab.com/zzdevxx/kilat-mail">Kilat Mail</a></h3>
-      <p>Blazing-fast serverless temporary email service featuring automated Smart OTP extraction, Cloudflare Email Routing workers, and instant edge storage on Cloudflare D1.</p>
-      <p><code>Cloudflare Workers</code> • <code>D1 Database</code> • <code>React</code> • <code>Vite</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 <a href="https://gitlab.com/zzdevxx/erase-drop">Erase Drop</a></h3>
-      <p>100% in-browser AI image background remover. Zero server upload, unlimited usage, and local client-side WebGPU acceleration with built-in official photo color backdrop generator.</p>
-      <p><code>WebGPU</code> • <code>Transformers.js</code> • <code>React</code> • <code>TypeScript</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍲 <a href="https://gitlab.com/zzdevxx/ciremai-cashier">Ciremai Cashier & POS</a></h3>
-      <p>Proprietary point-of-sale cashier system, interactive dining order workflow, 80mm thermal receipt printing, and daily revenue reporting engine for RM Ciremai Kuningan.</p>
-      <p><code>HTML5 / SPA</code> • <code>Local-First</code> • <code>Thermal Print</code> • <code>Financial POS</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💡 <a href="https://gitlab.com/zzdevxx/zz-fixture">zz-fixture Profiles</a></h3>
-      <p>Custom QLC+ fixture definition library (.qxf) for Alien AL36 (36-LED RGB) stage wash and Kumastb STL47 (12-LED RGBW) bench-testing fixtures.</p>
-      <p><code>QLC+</code> • <code>DMX512</code> • <code>XML / .qxf</code> • <code>Stage Fixtures</code></p>
-    </td>
-  </tr>
-</table>
+| Ecosystem | Live Portal | Source Repositories | Tech Stack |
+|---|---|---|---|
+| **ZZLUXORA (`v10.0`)** | [`zzdree.my.id/zzluxora/`](https://zzdree.my.id/zzluxora/) | [`zzluxora`](https://github.com/zzdevxx/zzluxora), [`zzluxora-download`](https://github.com/zzdevxx/zzluxora-download), [`esp32-artnet-dmx`](https://github.com/zzdevxx/esp32-artnet-dmx), [`zz-fixture`](https://github.com/zzdevxx/zz-fixture) | Python 3.15, PySide6/Qt6, NumPy STFT DSP, Art-Net 4 DMX512, ESP32 FreeRTOS |
+| **Banklycs Studio (`v2.6.0`)** | [`zzdree.my.id/banklycs/`](https://zzdree.my.id/banklycs/) | [`banklycs`](https://github.com/zzdevxx/banklycs), [`banklycs-download`](https://github.com/zzdevxx/banklycs-download) | C# (.NET 10 LTS), WebView2, SQLite FTS5 (54,204 songs) |
+| **GIA Deliksari Web** | [`giadeliksari.my.id`](https://giadeliksari.my.id/) | [`gia-deliksari-web`](https://github.com/zzdevxx/gia-deliksari-web) | Next.js 16, React 19, Cloudflare Workers + D1 |
+| **Jelajah Rembang** | [`jelajah-rembang.zzdree.workers.dev`](https://jelajah-rembang.zzdree.workers.dev/) | [`jelajah-rembang`](https://github.com/zzdevxx/jelajah-rembang) | Astro 7, Tailwind CSS v4, Leaflet, Playwright (47 tests) |
+| **zzdree.my.id Hub** | [`zzdree.my.id`](https://zzdree.my.id/) | Portfolio & Edge Reverse Proxy | Astro 7, Cloudflare Workers Static Assets |
 
----
+## Web, AI & Live Production Projects
 
-## 🛠️ Technical Stack & Specializations
+| Project | Focus | Repository / Live Access |
+|---|---|---|
+| **EraseDrop** | 100% browser-local AI background removal (WebGPU / WASM) | [Live App](https://erase-drop.vercel.app/) / [`erase-drop`](https://github.com/zzdevxx/erase-drop) |
+| **IN26 Master** | UKK UNNES 2026 event inventory & logistics (`React 19` + `Hono` + `D1`) | [Live Portal](https://in26-master.zzdree.workers.dev/) / [Details](https://zzdree.my.id/projects/in26-master) |
+| **IP26 Production** | Auditorium UNNES live production guides & switcher simulators | [Live Portal](https://ip26-production.zzdree.workers.dev/) / [`ip26-production`](https://github.com/zzdevxx/ip26-production) |
+| **IP26 Intercom & zz-suite** | LAN WebRTC crew intercom & Resolume Wire visual modules | [`ip26-intercom`](https://github.com/zzdevxx/ip26-intercom) / [`ip26-zzfx`](https://github.com/zzdevxx/ip26-zzfx) |
+| **RM. Ciremai Cashier** | Point-of-sale & QR self-ordering (WCAG AAA 16:1, Supabase) | [Order UI](https://zzdevxx.github.io/ciremai-cashier/order) / [`ciremai-cashier`](https://github.com/zzdevxx/ciremai-cashier) |
+| **Kana Memory** | Single-file offline JLPT N5 Hiragana, Katakana & Kanji trainer | [Play Online](https://zzdevxx.github.io/kana-memory/) / [`kana-memory`](https://github.com/zzdevxx/kana-memory) |
+| **Proxy Farm 9Router** | Automated proxy harvester, TLS CONNECT verifier & SQLite pool updater | [`proxy-farm-9router`](https://github.com/zzdevxx/proxy-farm-9router) |
+| **CBT Online School** | Edge browser exam delivery platform (PKBM Eagle School) | [Live Site](https://cbt-online.zzdree.workers.dev/) / [Details](https://zzdree.my.id/projects/cbt-online) |
+| **Suara Fajar Deliksari** | LiveKit WebRTC dawn radio & prayer wall source | [`suara-fajar-deliksari`](https://github.com/zzdevxx/suara-fajar-deliksari) |
+| **Archives** | Superseded releases (`zzluxora-v7` to `v9`) & retired inbox prototype | [`zzluxora-v9`](https://github.com/zzdevxx/zzluxora-v9), [`kilat-mail`](https://github.com/zzdevxx/kilat-mail) |
 
-```text
-Audio & DSP        • STFT, FFT (Cooley-Tukey DIT), Hann Windowing, MIR (RMS, Centroid, Chroma, MFCC, Flux)
-Affective Compute  • Russell Circumplex Model 2D (Valence-Arousal), Cross-Modal Color Mapping (HSV-RGBW)
-Stage & Lighting   • Art-Net 4, DMX512-A, QLC+ Profiles (zz-fixture), grandMA2/3 onPC
-Hardware & IoT     • ESP32 Dual-Core (Tensilica LX6), FreeRTOS SMP, MAX485, I2C, Arduino C++
-Languages          • Python, TypeScript, JavaScript, C++, C, SQL, HTML5 / CSS3
-Frontend / UI      • PySide6 (Qt6), Next.js, React, Tailwind CSS, Vite, Three.js
-Cloud & Serverless • Cloudflare (Workers, D1, R2, Pages), Supabase, WebRTC (LiveKit), Vercel
-Dev Environment    • Windows 11, Claude Code CLI, Git / GitHub CLI
-```
+## Core Stack & Synchronization
+
+- **Languages & Runtimes:** Python 3.15.2, C# (.NET 10 LTS), TypeScript, Node.js 26 LTS, C++ (ESP32 FreeRTOS)
+- **Web & Cloud Edge:** Astro 7, Next.js 16, React 19, Tailwind CSS v4, Hono, Cloudflare Workers & D1, SQLite FTS5
+- **Repositories & Sync:** Maintained across [GitHub](https://github.com/zzdevxx), [GitLab](https://gitlab.com/zzdevxx), and [Codeberg](https://codeberg.org/zzdevxx) under `@zzdevxx`.
 
 ---
 
 <div align="center">
 
-### 📊 GitHub Activity
-
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zzdevxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Andreas's GitHub Stats" />
-<br/>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zzdevxx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-<br/>
-<sub>Designed with precision & craftsmanship • Built for production</sub>
+Portfolio: [zzdree.my.id](https://zzdree.my.id/) | Contact: `hello@zzdree.my.id` | Semarang, Indonesia
 
 </div>
