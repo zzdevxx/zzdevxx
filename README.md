@@ -20,8 +20,8 @@ Undergraduate researcher and software engineer in Semarang, Indonesia building r
 
 | Ecosystem | Live Portal | Source Repositories | Tech Stack |
 |---|---|---|---|
-| **ZZLUXORA (`v10.0`)** | [`zzdree.my.id/zzluxora/`](https://zzdree.my.id/zzluxora/) | [`zzluxora`](https://github.com/zzdevxx/zzluxora), [`zzluxora-download`](https://github.com/zzdevxx/zzluxora-download), [`esp32-artnet-dmx`](https://github.com/zzdevxx/esp32-artnet-dmx), [`zz-fixture`](https://github.com/zzdevxx/zz-fixture) | Python 3.15, PySide6/Qt6, NumPy STFT DSP, Art-Net 4 DMX512, ESP32 FreeRTOS |
-| **Banklycs Studio (`v2.6.0`)** | [`zzdree.my.id/banklycs/`](https://zzdree.my.id/banklycs/) | [`banklycs`](https://github.com/zzdevxx/banklycs), [`banklycs-download`](https://github.com/zzdevxx/banklycs-download) | C# (.NET 10 LTS), WebView2, SQLite FTS5 (54,204 songs) |
+| **ZZLUXORA (`v10.1`)** | [`zzdree.my.id/zzluxora/`](https://zzdree.my.id/zzluxora/) | [`zzluxora`](https://github.com/zzdevxx/zzluxora), [`zzluxora-download`](https://github.com/zzdevxx/zzluxora-download), [`esp32-artnet-dmx`](https://github.com/zzdevxx/esp32-artnet-dmx), [`zz-fixture`](https://github.com/zzdevxx/zz-fixture) | Python 3.15, PySide6/Qt6, NumPy STFT DSP, Art-Net 4 DMX512, ESP32 FreeRTOS |
+| **Banklycs Studio (`v2.7.0`)** | [`zzdree.my.id/banklycs/`](https://zzdree.my.id/banklycs/) | [`banklycs`](https://github.com/zzdevxx/banklycs), [`banklycs-download`](https://github.com/zzdevxx/banklycs-download) | C# (.NET 10 LTS), WebView2, SQLite FTS5 (54,204 songs) |
 | **GIA Deliksari Web** | [`giadeliksari.my.id`](https://giadeliksari.my.id/) | [`gia-deliksari-web`](https://github.com/zzdevxx/gia-deliksari-web) | Next.js 16, React 19, Cloudflare Workers + D1 |
 | **Jelajah Rembang** | [`jelajah-rembang.zzdree.workers.dev`](https://jelajah-rembang.zzdree.workers.dev/) | [`jelajah-rembang`](https://github.com/zzdevxx/jelajah-rembang) | Astro 7, Tailwind CSS v4, Leaflet, Playwright (47 tests) |
 | **zzdree.my.id Hub** | [`zzdree.my.id`](https://zzdree.my.id/) | Portfolio & Edge Reverse Proxy | Astro 7, Cloudflare Workers Static Assets |
